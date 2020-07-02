@@ -5,3 +5,4 @@
 ## Features :dart:
 * [x] Free & Open Source
 * [x] Very Easy to use
+* [x] Cross Platform App (Android - IOS - Web)
